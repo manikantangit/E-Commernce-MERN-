@@ -1,7 +1,8 @@
 # MERN E-Commerce Website
 A full-featured MERN e-commerce platform offering a smooth shopping experience and powerful admin controls.
 Features
-User Interface:
+
+#User Interface:
 
 Secure Account Access: Enables users to register, log in, and manage their personal profiles securely.
 
@@ -13,7 +14,7 @@ Payment Integration: Supports secure online transactions through Stripe.
 
 Order Tracking: View order history, track delivery status, and handle returns efficiently.
 
-Admin Panel:
+#Admin Panel:
 
 Product Controls: Create, update, or remove products using an intuitive admin interface.
 
@@ -23,7 +24,7 @@ Order Oversight: Access and manage order data for processing and fulfillment.
 
 User Role Management: Admins can assign roles and control access permissions.
 
-Technology Stack
+#Technology Stack
 MongoDB: A scalable NoSQL database for storing all application data.
 
 Express.js: A minimal and fast backend web application framework.
